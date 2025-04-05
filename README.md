@@ -1,4 +1,4 @@
-# [Project 1: Spotify HIT Prediction, Dissertation project(Machine Learning](https://github.com/RonitMalik/Movie-Recommendation-System-)
+# [Project 1: Spotify HIT Prediction, Dissertation project(Machine Learning)](https://github.com/RonitMalik/Movie-Recommendation-System-)
 
 This is a project I did for my masters dissertation, where I build a prediction system for spotify dataset.
 
@@ -30,7 +30,7 @@ This will help the team make informed decisions about which YouTubers to collabo
 * Strategic Marketing Insights: Delivered actionable recommendations backed by data-driven justifications, helping the marketing team prioritize high-performing YouTube channels for future collaborations.
 *  Created detailed documentation covering data sources, transformation processes, and analysis conclusions, ensuring the solution's reproducibility and maintainability for future updates.
 
-# [Project 3: Road Accident Dashboard](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
+# [Project 3: Road Accident Dashboard using Excel](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
 
 The Road Accident Data Dashboard is an Excel-based analytical tool designed to provide insights into road accident trends, causes, and statistics. This dashboard helps users analyze accident data through interactive charts, pivot tables, and automated calculations.
 
@@ -40,7 +40,7 @@ The Road Accident Data Dashboard is an Excel-based analytical tool designed to p
 * Visualization and Dashboard Creation: Created interactive charts and an intuitive dashboard layout to present key insights.
 * Advanced Excel Techniques: Used conditional formatting, pivot tables, and Excel macros to automate tasks and enhance data analysis.
 
-# [Project 4: Walmart Data Analysis: SQL + Python Project](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
+# [Project 4: Walmart Data Analysis using SQL and Python](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
 
 This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
 
