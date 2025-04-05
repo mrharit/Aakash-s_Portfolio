@@ -1,4 +1,4 @@
-# [Project 1: Spotify HIT Prediction, Dissertation project(Machine Learning)](https://github.com/RonitMalik/Movie-Recommendation-System-)
+# [Project 1: Spotify HIT Prediction, Dissertation project(Machine Learning)](https://github.com/mrharit/Dissertation_project)
 
 This is a project I did for my masters dissertation, where I build a prediction system for spotify dataset.
 
@@ -9,9 +9,9 @@ data into training and testing sets.
 * Evaluated model performance using metrics such as accuracy, precision, recall, possibly involving cross- validation. 
 * Created visualizations to present the findings and model performance, ensuring the results are actionable.
   
-  I have also done an entire walkthrough video on youtube for the amazon price scapper and how you can build one too. [Click Here For Youtube Video](https://www.youtube.com/watch?v=vO668yAX3p8)
+  I have also done an entire walkthrough video on youtube for the amazon price scapper and how you can build one too. [Click Here For Youtube Video](https://youtu.be/h-Ctr6KVcUY)
 
-# [Project 2: Top UK Youtubers 2024 Dashboard using Excel, SQL and PowerBI](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
+# [Project 2: Top UK Youtubers 2024 Dashboard using Excel, SQL and PowerBI](https://github.com/mrharit/Road_Accident_Dashboard_Excel)
 
 The main goal is to find out who the top YouTubers are in 2024 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year.
 
@@ -30,7 +30,7 @@ This will help the team make informed decisions about which YouTubers to collabo
 * Strategic Marketing Insights: Delivered actionable recommendations backed by data-driven justifications, helping the marketing team prioritize high-performing YouTube channels for future collaborations.
 *  Created detailed documentation covering data sources, transformation processes, and analysis conclusions, ensuring the solution's reproducibility and maintainability for future updates.
 
-# [Project 3: Road Accident Dashboard using Excel](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
+# [Project 3: Road Accident Dashboard using Excel](https://github.com/mrharit/Road_Accident_Dashboard_Excel)
 
 The Road Accident Data Dashboard is an Excel-based analytical tool designed to provide insights into road accident trends, causes, and statistics. This dashboard helps users analyze accident data through interactive charts, pivot tables, and automated calculations.
 
@@ -40,7 +40,7 @@ The Road Accident Data Dashboard is an Excel-based analytical tool designed to p
 * Visualization and Dashboard Creation: Created interactive charts and an intuitive dashboard layout to present key insights.
 * Advanced Excel Techniques: Used conditional formatting, pivot tables, and Excel macros to automate tasks and enhance data analysis.
 
-# [Project 4: Walmart Data Analysis using SQL and Python](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
+# [Project 4: Walmart Data Analysis using SQL and Python](https://github.com/mrharit/Walmart_Python_SQL_Project)
 
 This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
 
@@ -50,7 +50,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 * Created a custom feature (Total Amount) to enhance downstream SQL analysis — demonstrating strong analytical thinking and understanding of business KPIs.
 * Maintained a well-organized project layout with dedicated folders for raw data, SQL queries, notebooks, and scripts, plus full documentation in Markdown — making it GitHub portfolio-ready and recruiter-friendly.
 
-# [Project 5: PowerBI Sales Dashboard](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
+# [Project 5: PowerBI Sales Dashboard](https://github.com/mrharit/PowerBI_Sales_project)
 
 This project aims to analyze sales data from various plants across different countries. The dataset includes information on product sales, costs, and geographical details. The goal is to derive insights that can help optimize sales strategies and improve overall business performance.
 
