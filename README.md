@@ -60,11 +60,12 @@ This project aims to analyze sales data from various plants across different cou
 * Utilized transaction timestamp data to analyze seasonality, peak sales periods, and time-based trends, supporting optimized sales strategy and resource allocation.
 * Analyzed Price vs. Quantity vs. Revenue to evaluate pricing strategies, helping identify price sensitivity and product demand elasticity.
 
+---
 
 # ⏳ Time Series Forecasting Portfolio
 
 
-## ⚡ [1. Power Consumption Forecasting using LSTM (Deep Learning)](https://github.com/mrharit)
+## ⚡ [1. Power Consumption Forecasting using LSTM (Deep Learning)](https://github.com/mrharit/Power-Consumption-Forecasting-with-LSTM)
 
 **Objective**: Predict household electricity consumption using historical smart meter data and LSTM neural networks.
 
@@ -78,7 +79,7 @@ This project aims to analyze sales data from various plants across different cou
 
 ---
 
-## 🥂 [2. Champagne Sales Forecasting (ARIMA Model)](https://github.com/mrharit)
+## 🥂 [2. Champagne Sales Forecasting (ARIMA Model)](https://github.com/mrharit/Time-Series-Analysis-and-Forecasting-Perrin-Freres-)
 
 **Objective**: Forecast monthly sales of champagne from 1964 to 1972 using classical time series methods.
 
@@ -91,7 +92,7 @@ This project aims to analyze sales data from various plants across different cou
 
 ---
 
-## ✈️ [3. Airline Passenger Forecasting (ARIMA + Seasonality)](https://github.com/mrharit)
+## ✈️ [3. Airline Passenger Forecasting (ARIMA + Seasonality)](https://github.com/mrharit/Airline-Passenger-Forecasting-Project)
 
 **Objective**: Predict airline passenger growth using monthly data from 1949 to 1960.
 
@@ -104,7 +105,7 @@ This project aims to analyze sales data from various plants across different cou
 
 ---
 
-## 🪑 [4. Furniture Sales Forecasting using Superstore Dataset](https://github.com/mrharit)
+## 🪑 [4. Furniture Sales Forecasting using Superstore Dataset](https://github.com/mrharit/Furniture-Sales-Forecasting-Superstore-Dataset)
 
 **Objective**: Forecast monthly sales for the "Furniture" category in the Superstore dataset.
 
