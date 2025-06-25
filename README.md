@@ -60,3 +60,62 @@ This project aims to analyze sales data from various plants across different cou
 * Utilized transaction timestamp data to analyze seasonality, peak sales periods, and time-based trends, supporting optimized sales strategy and resource allocation.
 * Analyzed Price vs. Quantity vs. Revenue to evaluate pricing strategies, helping identify price sensitivity and product demand elasticity.
 
+
+# ⏳ Time Series Forecasting Portfolio
+
+
+## ⚡ [1. Power Consumption Forecasting using LSTM (Deep Learning)](https://github.com/mrharit)
+
+**Objective**: Predict household electricity consumption using historical smart meter data and LSTM neural networks.
+
+- Preprocessed raw power consumption data from `.txt` format, combining date and time into datetime indices.
+- Performed exploratory analysis on voltage, intensity, and sub-metered energy usage across circuits.
+- Built and trained LSTM models using Keras/TensorFlow to capture sequential dependencies in power usage.
+- Forecasted future energy consumption with visualized comparison against actual values, supporting smart energy grid decisions.
+- Applied feature scaling, sequence windowing, and RMSE-based model evaluation.
+
+> **Tools**: Python, Pandas, Seaborn, TensorFlow/Keras, Matplotlib
+
+---
+
+## 🥂 [2. Champagne Sales Forecasting (ARIMA Model)](https://github.com/mrharit)
+
+**Objective**: Forecast monthly sales of champagne from 1964 to 1972 using classical time series methods.
+
+- Cleaned and transformed historical monthly sales data.
+- Conducted seasonal decomposition to understand trend, seasonality, and noise in the sales data.
+- Built ARIMA models and selected optimal parameters using AIC/BIC.
+- Generated forecasts for future sales and visualized predictions alongside confidence intervals.
+
+> **Tools**: Python, Pandas, Statsmodels, Matplotlib
+
+---
+
+## ✈️ [3. Airline Passenger Forecasting (ARIMA + Seasonality)](https://github.com/mrharit)
+
+**Objective**: Predict airline passenger growth using monthly data from 1949 to 1960.
+
+- Loaded and parsed time-series formatted data using pandas.
+- Applied moving average and decomposition techniques to identify yearly seasonality and long-term trends.
+- Implemented ARIMA-based forecasting and evaluated with visual overlays and residual diagnostics.
+- Used the model to forecast future demand for air travel, assisting strategic planning.
+
+> **Tools**: Python, Statsmodels, Pandas, Seaborn
+
+---
+
+## 🪑 [4. Furniture Sales Forecasting using Superstore Dataset](https://github.com/mrharit)
+
+**Objective**: Forecast monthly sales for the "Furniture" category in the Superstore dataset.
+
+- Filtered and aggregated transactional data based on `Order Date`.
+- Applied classical ARIMA modeling to perform rolling forecasts for inventory planning.
+- Demonstrated trends in business seasonality and consumer behavior.
+- Created reproducible code with clear visualizations to support data-driven decision-making.
+
+> **Tools**: Python, Pandas, Statsmodels, Excel
+
+---
+
+
+
