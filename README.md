@@ -11,7 +11,7 @@ data into training and testing sets.
   
   I have also done an entire walkthrough video on youtube for the amazon price scapper and how you can build one too. [Click Here For Youtube Video](https://youtu.be/h-Ctr6KVcUY)
 
-# [Project 2: Top UK Youtubers 2024 Dashboard using Excel, SQL and PowerBI](https://github.com/mrharit/Road_Accident_Dashboard_Excel)
+# [Project 2: Top UK Youtubers 2024 Dashboard using Excel, SQL and PowerBI](https://github.com/mrharit/Excel_SQL_PowerBI)
 
 The main goal is to find out who the top YouTubers are in 2024 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year.
 
